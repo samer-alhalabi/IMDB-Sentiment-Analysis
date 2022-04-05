@@ -1,6 +1,6 @@
 # IMDB-Sentiment-Analysis
 
-![image](moviess.jpg)
+![image](movies.jpg)
 
 Movie reviews can sometimes be a deciding factor for someone planning to go out for a movie. Wouldn’t it be interesting if we analyze movie reviews that audiences have posted on IMDb? IMDb is an acronym for Internet Movie Database which is an online database of information related to movies.
 
