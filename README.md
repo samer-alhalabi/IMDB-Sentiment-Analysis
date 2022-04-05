@@ -7,4 +7,4 @@ Movie reviews can sometimes be a deciding factor for someone planning to go out 
 In this repo, I performed a sentiment analysis of IMDb reviews and classified them into positive and negative classes based on their sentiment. I also used SHAP library to visualize and explain the output of the model I used.
 
 ##### Dataset can be found here https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews 
-##### SHAP documentation. https://shap.readthedocs.io/en/latest/index.html
+##### SHAP documentation: https://shap.readthedocs.io/en/latest/index.html
