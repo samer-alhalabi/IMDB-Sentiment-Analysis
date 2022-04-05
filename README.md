@@ -1,4 +1,4 @@
-# IMDB-Sentiment-Analysis
+# IMDB Sentiment Analysis
 
 ![image](movies.jpg)
 
